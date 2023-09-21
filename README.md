@@ -1,3 +1,3 @@
 # UI Practice IntroSection
 
-![Main-Img]()
+![Main-Img](https://github.com/WebDevloper1971/Introsection/blob/main/snapshot.png)
